@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: rendered
+  output-dir: docs
 
 website:
-  title: "ava-quarto-site"
+  title: "Ava Mackay-Smith"
   navbar:
     left:
       - href: index.qmd
