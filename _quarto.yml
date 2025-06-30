@@ -10,6 +10,9 @@ website:
         text: Home
       - about.qmd
 
+resources:
+  - CNAME
+
 format:
   html:
     theme:
