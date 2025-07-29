@@ -1,11 +1,36 @@
 ---
-title: "ava-quarto-site"
+title: "Ava Mackay-Smith"
+image: media/ava-sidebar-image.jpg
+toc: false
+about:
+  template: broadside
+  image-shape: rectangle
+  links:
+  - icon: envelope
+    href: mailto:apm58@duke.edu
+  - icon: twitter
+    href: https://twitter.com/a_mack_s
+  - text: "{{< fa brands orcid >}}"
+    href: https://orcid.org/0000-0003-0404-0563
+  - text: "{{< fa brands bluesky >}}"
+    href: https://bsky.app/profile/a-mack-s.bsky.social
+  - icon: mortarboard-fill
+    href: https://scholar.google.com/citations?user=1FHCc-gAAAAJ&hl=en
+  - icon: linkedin
+    href: https://www.linkedin.com/in/ava-mackay-smith/
 ---
 
-This is a Quarto website.
+**Ph.D. Candidate, Evolution of Gene Regulation and Variation at Duke University**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Thanks for stopping by - I’m a fourth-year Ph.D. student working with Dr. Greg Wray at Duke University in the University Program in Genetics and Genomics.
 
-```{r}
-1 + 1
-```
+I’m passionate about **explaining the origin and maintenance of diversity in the natural world**, using an ever-changing toolkit of **genetic and epigenetic tools**. To do this well, I am becoming increasingly interested in how we wrangle and visualize big datasets, and am particularly excited about **how graphic and design choices can help us communicate genetics more effectively**, to other academics as well as the public.
+
+\
+ 
+
+ 
+
+ 
+
+ 
