@@ -4,11 +4,33 @@ project:
 
 website:
   title: "Ava Mackay-Smith"
+  description: "The personal website of Ava Mackay-Smith"
+  favicon: /media/logo.png
+  image: /media/crop-headshot.jpeg
+  site-url: https://a-mackaysmith.com
+  repo-url: https://github.com/amackays/ava-quarto-site
   navbar:
+    title: "Ava Mackay-Smith"
+    search: true
+    logo: /media/logo.png
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: about me
+      - href: research.qmd
+        text: research
+      - href: teaching.qmd
+        text: teaching
+ #     - href: dataviz.qmd
+ #       text: portfolio
+      - href: resources.qmd
+        text: grad school resources
+      - href: media/AMS_resume.pdf
+        text: CV
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2025, Ava Mackay-Smith
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub logo" >}}](https://github.com/amackays/ava-quarto-site){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
 
 resources:
   - CNAME
@@ -20,6 +42,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
