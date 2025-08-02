@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+// Font import
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Commissioner:wght@100..900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+$fraunces: "Fraunces", serif;
+$commissioner: "Commissioner", sans-serif;
+
+// Colors
+$terracotta: #D06224;
+$chilerojo: #AE431E;
+$olive: #8A8635;
+$sunset: #EAC891;
+
+$light-terra: #f1d0bd;
+$light-sun: #fbf4e9;
+
+// Base document colors
+$navbar-bg: $sunset; // navbar
+$navbar-fg: $olive; // navbar foreground elements
+$navbar-hl: $terracotta; // highlight color when hovering over navbar links
+$body-bg: $light-sun; // page background 
+$body-color: #000000; // page text 
+$footer-bg: $sunset; // footer 
+$link-color: $olive; // hyperlinks 
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $fraunces;
+}

@@ -1,0 +1,49 @@
+---
+title: "The functional and evolutionary impacts of human-specific deletions in
+  conserved elements"
+date: "2023-01-24"
+freeze: true
+engine: knitr
+image: featured.jpg 
+categories:
+  - human evolution
+  - gene expression
+  - functional genomics
+params:
+  authors: "Xue JR, <b>Mackay-Smith A</b>, Mouri K, Garcia MF, Dong MX, Akers JF, Noble M, Li X, Zoonomia Consortium, Lindblad-Toh K, Karlsson EK, Noonan JP, Capellini TD, Brennand KJ, Tewhey R, Sabeti PC, Reilly SK"
+  year: 2023
+  title: "The functional and evolutionary impacts of human-specific deletions in
+  conserved elements"
+  publication: "<i>Science</i> 380, 6643"
+  doi: https://doi.org/10.1126/science.abn2253
+---
+
+<!-- remove metadata section -->
+
+```{css, echo = FALSE}
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+    display: none;
+}
+```
+
+:::::: columns
+::: {.column width="30%"}
+[![](./featured.jpg)](https://doi.org/10.1038/s41588-021-00900-4)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+```{r}
+#| echo: false
+htmltools::HTML(
+  glue::glue("{params$authors} ({params$year}) {params$title}. {params$publication} <a href='{params$doi}' target='_blank'>{params$doi}.</a>")
+)
+```
+
+<br> Conserved genomic sequences disrupted in humans may underlie uniquely human phenotypic traits. We identified and characterized 10,032 human-specific conserved deletions (hCONDELs). These short (average 2.56 base pairs) deletions are enriched for human brain functions across genetic, epigenomic, and transcriptomic datasets. Using massively parallel reporter assays in six cell types, we discovered 800 hCONDELs conferring significant differences in regulatory activity, half of which enhance rather than disrupt regulatory function. We highlight several hCONDELs with putative human-specific effects on brain development, including HDAC5, CPEB4, and PPP2CA. Reverting an hCONDEL to the ancestral sequence alters the expression of LOXL2 and developmental genes involved in myelination and synaptic function. Our data provide a rich resource to investigate the evolutionary mechanisms driving new traits in humans and other species.
+:::
+::::::
+
+------------------------------------------------------------------------

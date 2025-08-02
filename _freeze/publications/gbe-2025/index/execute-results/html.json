@@ -1,0 +1,15 @@
+{
+  "hash": "b3c7b07802a3df8739643bb610cd217c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Genome Mountaineering: Expanding Horizons of the 3D Genome for the Intrepid Evolutionary Adventurer\"\ndate: \"2025-06-04\"\nfreeze: true\nengine: knitr\nimage: featured.jpg \ncategories:\n  - functional genomics\n  - gene expression\n  - tool development\nparams:\n  authors: \"<b>Mackay-Smith A</b>, Wray GA\"\n  year: 2025\n  title: \"Genome Mountaineering: Expanding Horizons of the 3D Genome for the Intrepid Evolutionary Adventurer\"\n  publication: \"<em>Genome Biology and Evolution</em> 17 (6): evaf113\"\n  doi: https://doi.org/10.1093/gbe/evaf113\n---\n\n<!-- remove metadata section -->\n\n\n::: {.cell}\n<style type=\"text/css\">\n#title-block-header.quarto-title-block.default .quarto-title-meta {\n    display: none;\n}\n</style>\n:::\n\n\n:::::: columns\n::: {.column width=\"30%\"}\n[![](./featured.jpg)](https://doi.org/10.1038/s41588-021-00900-4)\n:::\n\n::: {.column width=\"5%\"}\n:::\n\n::: {.column width=\"65%\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<b>Mackay-Smith A</b>, Wray GA (2025) Genome Mountaineering: Expanding Horizons of the 3D Genome for the Intrepid Evolutionary Adventurer. <em>Genome Biology and Evolution</em> 17 (6): evaf113  <a href='https://doi.org/10.1093/gbe/evaf113' target='_blank'>https://doi.org/10.1093/gbe/evaf113.</a>\n```\n\n:::\n:::\n\n\n<br> The physical positioning of DNA in 3D space within the nucleus can be important for understanding how genetic changes influence gene regulation and consequently phenotype. The costs of 3D genomic assays are falling, concomitant with the rapid innovation of newer, more customizable methods. Thus, evolutionary researchers are increasingly able to engage with these approaches as barriers diminish. As we apply these methods to a broader range of organisms, we learn more about principles governing genome structure and regulatory evolution in 3D space. Here, we use recent studies in primarily nonmodel organisms to illustrate how these approaches can provide novel insights into evolutionary processes. We focus on these cases as motivation for further research into evolutionary conservation and change in 3D organization; the relationship between 3D organization and structural changes in the genome; and the impact of 3D organization in the evolution of gene regulation and organismal traits. We argue that 3D genomic information can help resolve a wide range of outstanding questions in evolutionary biology, particularly as technologies improve and become more accessible in nonmodel systems.\n:::\n::::::\n\n------------------------------------------------------------------------\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

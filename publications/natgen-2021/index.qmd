@@ -1,0 +1,47 @@
+---
+title: "Direct characterization of cis-regulatory elements and functional dissection of complex genetic associations using HCR-FlowFISH"
+date: "2021-07-29"
+freeze: true
+engine: knitr
+image: featured.jpg 
+categories:
+  - gene expression
+  - functional genomics
+  - tool development
+params:
+  authors: "Reilly SK, Gosai SJ, Gutierrez A, <b>Mackay-Smith A</b>, Ulirsch JC, Kanai M, Mouri K, Berenzy D, Kales S, Butler GM, Gladden-Young A, Bhuiyan RM, Stitzel ML, Finucane HK, Sabeti PC, Tewhey R"
+  year: 2021
+  title: "Direct characterization of cis-regulatory elements and functional dissection of complex genetic associations using HCR-FlowFISH"
+  publication: "<i>Nature Genetics</i> 53, 1166-1176"
+  doi: https://doi.org/10.1038/s41588-021-00900-4
+---
+
+<!-- remove metadata section -->
+
+```{css, echo = FALSE}
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+    display: none;
+}
+```
+
+:::::: columns
+::: {.column width="30%"}
+[![](./featured.jpg)](https://doi.org/10.1038/s41588-021-00900-4)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+```{r}
+#| echo: false
+htmltools::HTML(
+  glue::glue("{params$authors} ({params$year}) {params$title}. {params$publication}  <a href='{params$doi}' target='_blank'>{params$doi}.</a>")
+)
+```
+
+<br> Effective interpretation of genome function and genetic variation requires a shift from epigenetic mapping of cis-regulatory elements (CREs) to characterization of endogenous function. We developed hybridization chain reaction fluorescence in situ hybridization coupled with flow cytometry (HCR–FlowFISH), a broadly applicable approach to characterize CRISPR-perturbed CREs via accurate quantification of native transcripts, alongside CRISPR activity screen analysis (CASA), a hierarchical Bayesian model to quantify CRE activity. Across \>325,000 perturbations, we provide evidence that CREs can regulate multiple genes, skip over the nearest gene and display activating and/or silencing effects. At the cholesterol-level-associated FADS locus, we combine endogenous screens with reporter assays to exhaustively characterize multiple genome-wide association signals, functionally nominate causal variants and, importantly, identify their target genes.
+:::
+::::::
+
+------------------------------------------------------------------------

@@ -1,9 +1,10 @@
 ---
 title: "Research: Evolutionary Genetics and Gene Regulation"
+listing:
+  categories: unnumbered
+  contents: publications
+  type: grid
+  sort: "date desc"
+  image-height: 400px
+  fields: [image, title, date]
 ---
-
-About this site
-
-```{r}
-1 + 1
-```

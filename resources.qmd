@@ -4,37 +4,37 @@ title: "Resources for Fellowships and Graduate School"
 
 Throughout my academic career so far, I've benefited from having access to others' successful writing examples and from their knowledge of the academic systems I'm engaging with. In the same vein, below are a few of the materials I've used to apply for lab technician positions, Ph.D programs, and fellowships. Please return the favor of my volunteering these resources by respecting my intellectual property and practicing academic integrity, and please *please* feel free to reach out with any questions!
 
-## **Ph.D Program Applications**
+### Ph.D. Program Applications
 
-I applied to six programs in 2021: Duke - UPGG, Yale University - BBS (MCGD), UC-Berkeley - MCB (GGD), Stanford - Genetics, Cornell - MCGD (GGD), and UChicago - Ecology and Evolution. I was accepted into all of these programs, and below are links to my Duke Statement of Purpose (where I ended up matriculating), as well as to my UC-Berkeley essays (this is the only school on this list that is a little different, in that it requires a personal statement and a research statement).
+I applied to six programs in the fall of 2021: Duke - UPGG, Yale University - BBS (MCGD), UC-Berkeley - MCB (GGD), Stanford - Genetics, Cornell - MCGD (GGD), and UChicago - Ecology and Evolution. I was accepted into all of these programs, and below are links to my Duke Statement of Purpose (where I ended up matriculating), as well as to my UC-Berkeley essays (this is the only school on this list that is a little different, in that it requires a personal statement and a research statement).
 
-{{% staticref "media/duke_grad-sop_ams-v6.pdf" %}}Duke SoP{{% /staticref %}} \| {{% staticref "media/ucberkeley_grad-sop_ams-v6.pdf" %}}UC-Berkeley Research{{% /staticref %}} \| {{% staticref "media/ucberkeley_grad-ph_ams.pdf" %}}UC-Berkeley Personal{{% /staticref %}}
+[Duke SoP](media/duke_grad-sop_ams-v6.pdf) \| [UC-Berkeley Research Statement](media/ucberkeley_grad-ph_ams.pdf) \| [UC-Berkeley Personal Statement](media/ucberkeley_grad-ph_ams.pdf)
 
 If you're interested in Duke's UPGG program, feel free to reach out!
 
-## **NSF GRFP Application**
+### NSF GRFP Applications
 
 Below are my research and personal statements for the NSF GRFP. I won this fellowship as I was applying to grad school, sending in an application in Fall 2021. I just want to acknowledge that this particular fellowship is known to be a bit of a lottery, so please keep that in mind when reading these and also when applying yourself! Even if you aren't awarded the fellowship the first time around, you receive feedback on your submission, which is really useful for resubmission (and something I didn't know when I applied).
 
 There are some really useful resources from other graduate students on the internet! I highly recommend [Alex Lang's website](https://www.alexhunterlang.com/nsf-fellowship) - check out the database of many other students who have shared their (both successful and unsuccessful) proposals.
 
-\[NSF GRFP Research Statement\] (media/ams_grfp_final_v8.pdf) {{% /staticref %}} \| {{% staticref "media/v2_personal_ams_grfp.pdf" %}}NSF GRFP Personal{{% /staticref %}}
+[NSF GRFP Research Statement](media/ams_grfp_final_v8.pdf) \| [NSF GRFP Personal Statement](media/v2_personal_ams_grfp.pdf)
 
-## **Small Grants**
+### Small Grants
 
 To make things easier on my end, I'm not going to post the variety of small grants I've applied for, but if you're interested in Sigma Xi, small internal Grants-in-Aid, or Conference Travel Grants and you'd like to see my writing, drop me a line!
 
-## **C.V.**
+### C.V.
 
 I built my CV in LaTeX using the resume.cls class from Trey Hunner on [GitHub](https://github.com/treyhunner/resume/blob/master/resume.cls). I used this same format while applying to teching jobs in academia after graduating from college.
 
-{{% staticref "media/AMS_resume.pdf" %}}Ava's CV{{% /staticref %}}
+[Ava's CV](media/AMS_resume.pdf)
 
-## **Building a Website**
+### Building a Website
 
-If you're interested in starting a website, I really recommend hosting your site with GitHub and using Wowchemy/Netlify or Quarto for a quick and streamlined website template! There are great resources on the Hugo documentation for Wowchemy sites, and GitHub website deployment is pretty easy with their walkthrough guides.
+If you're interested in starting a website, I really recommend hosting your site with GitHub and using Wowchemy/Netlify or Quarto for a quick and streamlined website template! Here's a good [tutorial](https://ucsb-meds.github.io/creating-quarto-websites/) that I used. GitHub website deployment is pretty easy with their walkthrough [guides](https://docs.github.com/en/pages/quickstart).
 
-## **Teching**
+### Working as a Tech
 
 While I was a tech for two years and I would highly recommend doing this for anyone applying to graduate school in genetics/genomics/evolution, I will just disclaimer this by saying that it's really hard! Not only once you become a tech, but also while you're applying to be one - I sent out over forty applications (albeit mostly due to the pandemic) and nearly ended up volunteering on a remote island outside Hawai'i instead of working at the Broad.
 
@@ -42,7 +42,7 @@ If you do land a tech job, and you feel like you're struggling - I can guarantee
 
 If you're teching now and struggle with taking your failures too personally (to the point that it's affecting your ability to work well on other things), something I did was keep a mistake log - write down what the mistake you're having trouble letting go was; why it happened; and how you're going to prevent it next time. I kept this on a google doc and every time I wrote a new entry, I sent it to my supervisor as well (after letting them know in person that I made an error), to let them know how I was planning on dealing with the setback. The act of owning the mistake and physically writing an action plan really helped me deal with, and move past, whatever the mistake was - big or small.
 
-## **Reality Check (Things I didn't get or win)**
+### Reality Check!
 
 In science, I sometimes feel like we spend a lot of time competing about achievements and the things that make us look smart! That's great, especially when we celebrate each other for our achievements and the barriers we've overcome to get there, but it can also be isolating - when we focus only on the experiments that worked or the fellowships that were won, etc., it hides exactly how many failures (and how learning from those failures) built that amazing person who's doing that science. Consequently, when you experience that failure yourself but nobody is discussing their own similar experiences, it can sometimes end up feeling like you are the only one who's struggling or experiencing failure when trying to move through some parts of academia/science. So here are some things that didn't work for me!
 

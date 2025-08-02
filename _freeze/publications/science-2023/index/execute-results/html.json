@@ -1,0 +1,15 @@
+{
+  "hash": "58c4729c32d9a4d55e36661144074fd5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"The functional and evolutionary impacts of human-specific deletions in\n  conserved elements\"\ndate: \"2023-01-24\"\nfreeze: true\nengine: knitr\nimage: featured.jpg \ncategories:\n  - human evolution\n  - gene expression\n  - functional genomics\nparams:\n  authors: \"Xue JR, <b>Mackay-Smith A</b>, Mouri K, Garcia MF, Dong MX, Akers JF, Noble M, Li X, Zoonomia Consortium, Lindblad-Toh K, Karlsson EK, Noonan JP, Capellini TD, Brennand KJ, Tewhey R, Sabeti PC, Reilly SK\"\n  year: 2023\n  title: \"The functional and evolutionary impacts of human-specific deletions in\n  conserved elements\"\n  publication: \"<i>Science</i> 380, 6643\"\n  doi: https://doi.org/10.1126/science.abn2253\n---\n\n<!-- remove metadata section -->\n\n\n::: {.cell}\n<style type=\"text/css\">\n#title-block-header.quarto-title-block.default .quarto-title-meta {\n    display: none;\n}\n</style>\n:::\n\n\n:::::: columns\n::: {.column width=\"30%\"}\n[![](./featured.jpg)](https://doi.org/10.1038/s41588-021-00900-4)\n:::\n\n::: {.column width=\"5%\"}\n:::\n\n::: {.column width=\"65%\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\nXue JR, <b>Mackay-Smith A</b>, Mouri K, Garcia MF, Dong MX, Akers JF, Noble M, Li X, Zoonomia Consortium, Lindblad-Toh K, Karlsson EK, Noonan JP, Capellini TD, Brennand KJ, Tewhey R, Sabeti PC, Reilly SK (2023) The functional and evolutionary impacts of human-specific deletions in conserved elements. <i>Science</i> 380, 6643 <a href='https://doi.org/10.1126/science.abn2253' target='_blank'>https://doi.org/10.1126/science.abn2253.</a>\n```\n\n:::\n:::\n\n\n<br> Conserved genomic sequences disrupted in humans may underlie uniquely human phenotypic traits. We identified and characterized 10,032 human-specific conserved deletions (hCONDELs). These short (average 2.56 base pairs) deletions are enriched for human brain functions across genetic, epigenomic, and transcriptomic datasets. Using massively parallel reporter assays in six cell types, we discovered 800 hCONDELs conferring significant differences in regulatory activity, half of which enhance rather than disrupt regulatory function. We highlight several hCONDELs with putative human-specific effects on brain development, including HDAC5, CPEB4, and PPP2CA. Reverting an hCONDEL to the ancestral sequence alters the expression of LOXL2 and developmental genes involved in myelination and synaptic function. Our data provide a rich resource to investigate the evolutionary mechanisms driving new traits in humans and other species.\n:::\n::::::\n\n------------------------------------------------------------------------\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

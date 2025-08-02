@@ -14,8 +14,6 @@ website:
     search: true
     logo: /media/logo.png
     left:
-      - href: index.qmd
-        text: about me
       - href: research.qmd
         text: research
       - href: teaching.qmd
@@ -38,8 +36,9 @@ resources:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - morph
+      - styles.scss
+    mainfont: Commissioner
     css: styles.css
     toc: true
     page-layout: full

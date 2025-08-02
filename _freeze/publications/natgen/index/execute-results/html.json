@@ -1,0 +1,15 @@
+{
+  "hash": "e3ade6d2f1c49fc0602e1c66e9ce4dad",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Direct characterization of cis-regulatory elements and functional dissection of complex genetic associations using HCR-FlowFISH\"\ndate: \"2021-07-29\"\nfreeze: true\nengine: knitr\nimage: featured.jpg \ncategories:\n  - human evolution\n  - tool development\nparams:\n  authors: \"Reilly SK, Gosai SJ, Gutierrez A, <b>Mackay-Smith A</b>, Ulirsch JC, Kanai M, Mouri K, Berenzy D, Kales S, Butler GM, Gladden-Young A, Bhuiyan RM, Stitzel ML, Finucane HK, Sabeti PC, Tewhey R\"\n  year: 2021\n  title: \"Direct characterization of cis-regulatory elements and functional dissection of complex genetic associations using HCR-FlowFISH\"\n  publication: \"Nature Genetics 53, 1166-1176\"\n  doi: https://doi.org/10.1038/s41588-021-00900-4\n---\n\n<!-- remove metadata section -->\n\n\n::: {.cell}\n<style type=\"text/css\">\n#title-block-header.quarto-title-block.default .quarto-title-meta {\n    display: none;\n}\n</style>\n:::\n\n\n::: columns\n::: {.column width=\"30%\"}\n\n[![](./featured.jpg)](https://doi.org/10.1038/s41588-021-00900-4)\n:::\n\n:::{.column width=\"5%\"}\n:::\n\n:::{.column width=\"65%\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\nReilly SK, Gosai SJ, Gutierrez A, <b>Mackay-Smith A</b>, Ulirsch JC, Kanai M, Mouri K, Berenzy D, Kales S, Butler GM, Gladden-Young A, Bhuiyan RM, Stitzel ML, Finucane HK, Sabeti PC, Tewhey R (2021) Direct characterization of cis-regulatory elements and functional dissection of complex genetic associations using HCR-FlowFISH. <em>Nature Genetics 53, 1166-1176</em>  <a href='https://doi.org/10.1038/s41588-021-00900-4' target='_blank'>https://doi.org/10.1038/s41588-021-00900-4.</a>\n```\n\n:::\n:::\n\n<br>\nEffective interpretation of genome function and genetic variation requires a shift from epigenetic mapping of cis-regulatory elements (CREs) to characterization of endogenous function. We developed hybridization chain reaction fluorescence in situ hybridization coupled with flow cytometry (HCR–FlowFISH), a broadly applicable approach to characterize CRISPR-perturbed CREs via accurate quantification of native transcripts, alongside CRISPR activity screen analysis (CASA), a hierarchical Bayesian model to quantify CRE activity. Across >325,000 perturbations, we provide evidence that CREs can regulate multiple genes, skip over the nearest gene and display activating and/or silencing effects. At the cholesterol-level-associated FADS locus, we combine endogenous screens with reporter assays to exhaustively characterize multiple genome-wide association signals, functionally nominate causal variants and, importantly, identify their target genes.\n:::\n\n:::\n\n---\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

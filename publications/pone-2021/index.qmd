@@ -1,0 +1,47 @@
+---
+title: "Host-specific gene expression as a tool for introduction success in <i>Naupactus</i> parthenogenetic weevils"
+date: "2021-07-30"
+freeze: true
+engine: knitr
+image: featured.jpg 
+categories:
+  - insect genetics
+  - gene expression
+  - ecological genetics
+params:
+  authors: "<b>Mackay-Smith A</b>, Dornon MK, Lucier R, Okimoto A, Mendonca de Sousa F, Rodriguero M, Confalonieri V, Lanteri AA, Sequeira AS"
+  year: 2021
+  title: "Host-specific gene expression as a tool for introduction success in <i>Naupactus</i> parthenogenetic weevils"
+  publication: "<i>PLoS ONE</i> 16(7): e0248202"
+  doi: https://doi.org/10.1371/journal.pone.0248202
+---
+
+<!-- remove metadata section -->
+
+```{css, echo = FALSE}
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+    display: none;
+}
+```
+
+:::::: columns
+::: {.column width="30%"}
+[![](./featured.jpg)](https://doi.org/10.1038/s41588-021-00900-4)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+```{r}
+#| echo: false
+htmltools::HTML(
+  glue::glue("{params$authors} ({params$year}) {params$title}. {params$publication}  <a href='{params$doi}' target='_blank'>{params$doi}.</a>")
+)
+```
+
+<br> Food resource access can mediate establishment success in invasive species, and generalist herbivorous insects are thought to rely on mechanisms of transcriptional plasticity to respond to dietary variation. While asexually reproducing invasives typically have low genetic variation, the twofold reproductive capacity of asexual organisms is a marked advantage for colonization. We studied host-related transcriptional acclimation in parthenogenetic, invasive, and polyphagous weevils: *Naupactus cervinus* and *N. leucoloma*. We analyzed patterns of gene expression in three gene categories that can mediate weevil-host plant interactions through identification of suitable host plants, short-term acclimation to host plant defenses, and long-term adaptation to host plant defenses and their pathogens. This approach employed comparative transcriptomic methods to investigate differentially expressed host detection, detoxification, immune defense genes, and pathway-level gene set enrichment. Our results show that weevil gene expression responses can be host plant-specific, and that elements of that response can be maintained in the offspring. Some host plant groups, such as legumes, appear to be more taxing as they elicit a complex gene expression response which is both strong in intensity and specific in identity. However, the weevil response to taxing host plants shares many differentially expressed genes with other stressful situations, such as host plant cultivation conditions and transition to novel host, suggesting that there is an evolutionarily favorable shared gene expression regime for responding to different types of stressful situations. Modulating gene expression in the absence of other avenues for phenotypic adaptation may be an important mechanism of successful colonization for these introduced insects.
+:::
+::::::
+
+------------------------------------------------------------------------
