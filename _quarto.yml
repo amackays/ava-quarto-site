@@ -12,7 +12,7 @@ website:
   navbar:
     title: "Ava Mackay-Smith"
     search: true
-    logo: /media/logo.png
+    logo: /media/logo-gradient.png
     left:
       - href: research.qmd
         text: research

@@ -1,5 +1,5 @@
 ---
-title: "Genetically depauperate and still successful: few multilocus genotypes of the introduced parthenogenetic weevil <em>Naupactus cervinus</em> (Coleoptera:Curculionidae) prevail in the Continental United States"
+title: "Genetically depauperate and still successful: few multilocus genotypes of the introduced parthenogenetic weevil <em>Naupactus cervinus</em> (Coleoptera: Curculionidae) prevail in the Continental United States"
 date: "2023-01-22"
 freeze: true
 engine: knitr
@@ -10,7 +10,7 @@ categories:
 params:
   authors: "Rodriguero MS, Confalonieri VA, <b>Mackay-Smith A</b>, Dornon MK, Zagoren E, Palmer A, Sequeira AS"
   year: 2023
-  title: "Genetically depauperate and still successful: few multilocus genotypes of the introduced parthenogenetic weevil <em>Naupactus cervinus</em> (Coleoptera:Curculionidae) prevail in the Continental United States"
+  title: "Genetically depauperate and still successful: few multilocus genotypes of the introduced parthenogenetic weevil <em>Naupactus cervinus</em> (Coleoptera: Curculionidae) prevail in the Continental United States"
   publication: "<em>Insects</em> 14, 113"
   doi: https://doi.org/10.3390/insects14020113
 ---

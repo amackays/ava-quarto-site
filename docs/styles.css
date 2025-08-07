@@ -1,4 +1,7 @@
 /* css styles */
 .navbar-logo {
-  max-height: 70px;
+  max-height: 50px;
+}
+.justify {
+  text-align: justify;
 }
