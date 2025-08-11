@@ -1,10 +1,10 @@
 ---
 title: "Ava Mackay-Smith"
 image: media/ava-sidebar-image.png
-css: landing.css
 toc: false
 format:
   html:
+    css: landing.css
     grid:
       body-width: 1000px
 about:
