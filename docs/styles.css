@@ -6,19 +6,3 @@
   text-align: justify;
 }
 
-.quarto-title {
-  margin-left: 50px;
-  margin-top: 25px;
-}
-
-.content.column-body#quarto-document-content {
-  margin-left: 50px;
-  width: 600px;
-}
-
-.about-entity {
-  margin-top: 25px;
-  flex-grow: 0 !important;
-  flex-shrink: 3 !important;
-  flex-basis: 40% !important;
-}
